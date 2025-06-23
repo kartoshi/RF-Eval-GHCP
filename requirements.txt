@@ -1,10 +1,5 @@
-robot-test-project
-├── Resources
-│   ├── common.robot
-│   ├── keywords.robot
-│   └── variables.robot
-├── TestCases
-│   ├── test_suite_1.robot
-│   └── test_suite_2.robot
-├── requirements.txt
-└── README.md
+robotframework>=6.1.1
+robotframework-browser>=18.0.0
+axe-core>=4.7.3
+nodejs>=18.0.0
+playwright>=1.38.0
