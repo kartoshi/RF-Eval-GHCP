@@ -3,11 +3,11 @@ Resource    ../Resources/keywords.robot
 
 *** Variables ***
 ${HUK24_URL}    https://www.huk24.de
-${HUK24_TITLE}    HUK24 - Ihr Partner für günstige Versicherungen
+${HUK24_TITLE}    HUK24 Digital. Einfach. Günstiger.
 ${HUK_URL}    https://www.huk.de
-${HUK_TITLE}    HUK - Ihr Partner für günstige Versicherungen
+${HUK_TITLE}    HUK COBURG: Versicherungen aus Tradition günstig
 ${VRK_URL}    https://www.vrk.de
-${VRK_TITLE}    VRK - Ihr Partner für günstige Versicherungen
+${VRK_TITLE}    VRK - Richtig gut versichert!
 
 *** Test Cases ***
 Verify HUK24 Website
